@@ -1,0 +1,118 @@
+#header {
+    width: 100%;
+    background-color: blue;
+	height: 200px;
+	background-image: url('farhang.jpg');
+    background-size: center;
+    background-position: center;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 10px;
+}
+#main {
+    float: right;
+    width: 90%;
+    margin-right: 5%;
+}
+.right-box {
+    float: right;
+    width: 70%;
+    margin-top: 15px;
+    background-color: #ffffec;
+    color: black;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+bottom-box {
+    float: bottom;
+    width: 70%;
+    margin-top: 15px;
+    background-color: #ffffec;
+    color: black;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+
+.left-box {
+    float: left;
+    width: 20%;
+    margin-top: 15px;
+    background-color: #ffffec;
+    color: black;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+.post-title {
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-size: 24px;
+    font-family: tahoma;
+    font-weight: bold;
+}
+.post-date {
+    padding-top: 5px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-family: tahoma;
+}
+.post-content {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-size: 18px;
+    font-family: tahoma;
+}
+.about-web {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 18px;
+    font-family: tahoma;
+    font-weight: bold;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+.about-content {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-size: 18px;
+    font-family: tahoma;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+.menu-web {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 18px;
+    font-family: tahoma;
+    font-weight: bold;
+	box-shadow: 0px 0px 10px 1px #636363;
+	border-radius: 15px;
+}
+.menu-content {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-family: tahoma;
+}
+.content {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: tahoma;
+    text-align: center;
+    font-size: 30px;
+	
+}
